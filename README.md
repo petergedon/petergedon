@@ -5,7 +5,7 @@
 Focus on creating a product that is both useful and valuable
 
 - 🌍  I'm based in Indonesia
-- 🖥️  See my portfolio at [Portofolio](http://portfolio-yd.vercel.com)
+- 🖥️  See my portfolio at [Portofolio](https://yogadharma-portfolio.vercel.app)
 - ✉️  You can contact me at [yogacode2006@gmail.com](mailto:yogacode2006@gmail.com)
 
 ### Socials
